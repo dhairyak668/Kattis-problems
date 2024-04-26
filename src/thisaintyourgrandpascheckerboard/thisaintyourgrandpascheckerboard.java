@@ -1,7 +1,7 @@
 package thisaintyourgrandpascheckerboard;
 /**
- * @author Dhairya Kachalia
- * net id: dhairyk@iasate.edu
+ * @author
+ * net id:
  * question: https://open.kattis.com/problems/thisaintyourgrandpascheckerboard
  */
 import java.util.Scanner;
